@@ -1,0 +1,9 @@
+.display-container{
+    width: 97vw;
+    display: flex;
+    justify-content: space-between;
+}
+.main-display{
+    width: 100%;
+    
+}

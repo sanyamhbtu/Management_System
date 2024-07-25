@@ -1,0 +1,89 @@
+.fixedone{
+    width: 50px;
+  height: 60px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  
+}
+.fixedtwo{
+    width: 170px;
+  height: 60px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+ 
+}
+.fixedthree{
+    width: 300px;
+  height: 60px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden; 
+  text-overflow: ellipsis;
+  
+}
+.fixedfour{
+  width: 300px;
+  height: 60px;
+line-height: 40px; 
+display: flex;
+align-items: center;
+justify-content: center;
+overflow: hidden;
+text-overflow: ellipsis;
+
+}
+.border{
+  margin-left: 5px;
+  padding: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn {
+  
+  align-items: center;
+  appearance: button;
+  background-color: 
+#0276FF;
+  border-radius: 8px;
+  border-style: none;
+  box-shadow: 
+rgba(255, 255, 255, 0.26) 0 1px 2px inset;
+  box-sizing: border-box;
+  color: 
+#fff;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  font-family: "RM Neue",sans-serif;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 10px;
+  padding: 10px 21px;
+  text-align: center;
+  text-transform: none;
+  transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.btn:active {
+  background-color: 
+#006AE8;
+}
+
+.btn:hover {
+  background-color: 
+#1C84FF;
+}
